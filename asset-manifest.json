@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ReactCinema/static/css/main.509a7109.css",
-    "main.js": "/ReactCinema/static/js/main.0a81354a.js",
+    "main.js": "/ReactCinema/static/js/main.0e5327ab.js",
     "static/media/Dongle-Regular.ttf": "/ReactCinema/static/media/Dongle-Regular.be19c2ab1576230dd28d.ttf",
     "static/media/Dongle-Light.ttf": "/ReactCinema/static/media/Dongle-Light.099c1b232ee32aedbc6d.ttf",
     "index.html": "/ReactCinema/index.html",
     "main.509a7109.css.map": "/ReactCinema/static/css/main.509a7109.css.map",
-    "main.0a81354a.js.map": "/ReactCinema/static/js/main.0a81354a.js.map"
+    "main.0e5327ab.js.map": "/ReactCinema/static/js/main.0e5327ab.js.map"
   },
   "entrypoints": [
     "static/css/main.509a7109.css",
-    "static/js/main.0a81354a.js"
+    "static/js/main.0e5327ab.js"
   ]
 }
